@@ -36,6 +36,14 @@ This idea currently represents the **Creative Phase** of the innovation framewor
 
 ---
 
+## Prototype Enhancement
+**What is being changed:**
+The original tool forecasts performance using traditional box-score statistics. This enhancement proposes adding **biometric and workload tracking data** as an additional data source — specifically, data from player wearables (e.g., heart rate variability, sleep quality scores, practice intensity load) integrated alongside game statistics.
+
+**Why this change could improve decision-making:**
+Box-score stats alone are lagging indicators — they tell you what already happened. Biometric and workload data are leading indicators that can signal early fatigue, injury risk, or peak physical readiness *before* it shows up in game performance. For example, a player showing declining sleep quality and high training load over six weeks may be at risk of a performance dip even if their recent game stats look fine.
+
+By incorporating this layer, the forecasting tool becomes more proactive. A general manager evaluating a contract extension would not only see projected stats but also a physical readiness score — making it a more complete picture for high-stakes decisions.
 ## Prototype Evaluation
 **Should the prototype enhancement be integrated into the main project?**
 Yes — the addition of biometric and workload tracking data represents a meaningful improvement to the original concept. It shifts the tool from reactive (describing past performance) to proactive (anticipating future performance dips or peaks), which directly strengthens the value for front office decision makers evaluating contracts and roster moves.
