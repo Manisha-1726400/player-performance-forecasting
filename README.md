@@ -44,3 +44,15 @@ The original tool forecasts performance using traditional box-score statistics. 
 Box-score stats alone are lagging indicators — they tell you what already happened. Biometric and workload data are leading indicators that can signal early fatigue, injury risk, or peak physical readiness *before* it shows up in game performance. For example, a player showing declining sleep quality and high training load over six weeks may be at risk of a performance dip even if their recent game stats look fine.
 
 By incorporating this layer, the forecasting tool becomes more proactive. A general manager evaluating a contract extension would not only see projected stats but also a physical readiness score — making it a more complete picture for high-stakes decisions.
+## Prototype Evaluation
+**Should the prototype enhancement be integrated into the main project?**
+Yes — the addition of biometric and workload tracking data represents a meaningful improvement to the original concept. It shifts the tool from reactive (describing past performance) to proactive (anticipating future performance dips or peaks), which directly strengthens the value for front office decision makers evaluating contracts and roster moves.
+
+**What type of feedback from decision makers would influence this decision?**
+Before full integration, the following feedback would be essential:
+- **From the General Manager:** Does the physical readiness score feel interpretable and trustworthy? Would they actually factor it into a contract decision?
+- **From the coaching staff:** Is the workload data granular enough to be actionable, or does it feel like noise?
+- **From the analytics team:** Is biometric data available, reliable, and consistently tracked across the organization? Are there privacy or player-union considerations?
+
+If decision makers find the biometric layer confusing or untrustworthy, the enhancement should be refined further before merging. If feedback is positive and data access is confirmed, the prototype is ready to be adopted into the main project.
+
