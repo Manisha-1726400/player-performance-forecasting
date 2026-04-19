@@ -33,3 +33,18 @@ The analysis would involve trend modeling across seasons to project a player's e
 This idea currently represents the **Creative Phase** of the innovation framework. The concept has been identified and defined — there is a clear problem (roster decision uncertainty), a proposed solution (performance forecasting), and an intended audience (front office and coaching staff). However, no prototype has been built yet, no stakeholder feedback has been gathered, and the tool has not been tested in a real decision-making scenario. The next step would be to move into the Prototyping Phase by building a simplified version for evaluation.
 
 ---
+
+---
+
+## Prototype Evaluation
+**Should the prototype enhancement be integrated into the main project?**
+Yes — the addition of biometric and workload tracking data represents a meaningful improvement to the original concept. It shifts the tool from reactive (describing past performance) to proactive (anticipating future performance dips or peaks), which directly strengthens the value for front office decision makers evaluating contracts and roster moves.
+
+**What type of feedback from decision makers would influence this decision?**
+Before full integration, the following feedback would be essential:
+- **From the General Manager:** Does the physical readiness score feel interpretable and trustworthy? Would they actually factor it into a contract decision?
+- **From the coaching staff:** Is the workload data granular enough to be actionable, or does it feel like noise?
+- **From the analytics team:** Is biometric data available, reliable, and consistently tracked across the organization? Are there privacy or player-union considerations?
+
+If decision makers find the biometric layer confusing or untrustworthy, the enhancement should be refined further before merging. If feedback is positive and data access is confirmed, the prototype is ready to be adopted into the main project.
+
